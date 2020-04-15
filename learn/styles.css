@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+    font-size: 1.50em;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+img {
+   height: 200px;
+   width: 700px;
+   border: 10px darkblue;
+   
+}
+
+h2, h1, table, th, tr, td, thead{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#title {
+color: blueviolet;
+padding: 10%;
+}
+
+.container{
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+}

@@ -1,0 +1,25 @@
+p{
+    font-family: 'Zhi Mang Xing', cursive;
+    border: black;
+    margin: 20px; 
+}
+
+.text1{
+    font-weight: bold;
+}
+
+.text2{
+    font-size: 20px;
+}
+
+.text3{
+    line-height: 50px;
+}
+
+.title{
+    font-weight: 800;
+}
+
+body{
+    background-color: aqua;
+}
